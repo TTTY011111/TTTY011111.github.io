@@ -599,7 +599,7 @@ p {
 }
 
 .case-item-aboutMe2{
-    background-image: url(about\ 2.jpg); 
+    background-image: url(image/about\ 2.jpg); 
     height: auto;
     background-repeat: no-repeat;
     background-position: center center; 
@@ -607,7 +607,7 @@ p {
 }
 
 .case-item-aboutMe{
-    background-image: url(about.jpg); 
+    background-image: url(image/about.jpg); 
     height: auto;
     background-repeat: no-repeat;
     background-position: center center; 
@@ -615,7 +615,7 @@ p {
 }
 
 .Portfolio-header-img{
-    background-image: url(work.jpg); 
+    background-image: url(image/work.jpg); 
     height: auto;
     background-repeat: no-repeat;
     background-position: center center; 
